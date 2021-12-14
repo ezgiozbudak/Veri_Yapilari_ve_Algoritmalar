@@ -1,2 +1,6 @@
-# Veri_Yapilari_ve_Algoritmalar
-Patika.dev 'de verilen veri yapıları ve algoritmalar dersinin bölüm sonu projelerinin cevapları :
+# Veri Yapıları ve Algoritmalar(Patika.dev)
+Veri yapıları ve algoritmalar dersinin bölüm sonu projelerinin cevapları :
+
+* ## Proje 1
+* ## Proje 2
+* ## Proje 3
